@@ -38,7 +38,7 @@ When I'm not engineering infrastructure, you'll find me:
 
 <a href="https://www.vanguardservers.co/">
   <img src="https://img.shields.io/badge/vanguardservers.co-0A0A0A?style=for-the-badge" alt="Website">
-</a>&nbsp;
+</a>
 <a href="mailto:management@vanguardservers.co">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
